@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44120822404",
+    "firebase_url": "https://pal-chat-24678.firebaseio.com",
+    "project_id": "pal-chat-24678",
+    "storage_bucket": "pal-chat-24678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44120822404:android:a3d0241efacff0cb2a28d1",
+        "android_client_info": {
+          "package_name": "co.laroshan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44120822404-pd3h57m79ipgo9jr5tujfhl5hjcm0m5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZhuWHyh-O5dJG3pmolOUAEvy4a-L6qQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44120822404-pd3h57m79ipgo9jr5tujfhl5hjcm0m5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
